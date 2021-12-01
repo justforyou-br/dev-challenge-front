@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <img src="https://reactjs.org/logo-og.png" alt="REACT" height: 30%; width: 30%;/>
+  <img src="https://reactjs.org/logo-og.png" alt="REACT"  style="width:20%; height:20%"/>
 </div>
 
 ## 🔰 Desafio do GitHub Viewer
