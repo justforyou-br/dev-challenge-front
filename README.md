@@ -46,6 +46,7 @@ Layout:
 ## ❓ API
 
 Documentação da API: https://docs.github.com/pt/rest/reference
+
 Exemplo:
 API: https://api.github.com/users/{username}/repos
  (ex: https://api.github.com/users/rftemer/repos);
