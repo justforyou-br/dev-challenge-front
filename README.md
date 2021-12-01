@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <img src="https://reactjs.org/logo-og.png?style=flat&logo=python&logoColor=white&color=success" alt="REACT" />
+  <img src="https://reactjs.org/logo-og.png" alt="REACT" height: 30%; width: 30%;/>
 </div>
 
 ## 🔰 Desafio do GitHub Viewer
