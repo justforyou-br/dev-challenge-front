@@ -40,7 +40,7 @@ Entrada da aplicação:
 * username do github (tudo começa baseado em um usuario)
 
 Layout:
-* Será enviado assets basicos da marca para utilização
+* Assets basicos: https://bit.ly/jfy-miv
 
 ## ❓ API
 
