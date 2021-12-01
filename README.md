@@ -32,17 +32,23 @@ Primeiramente, obrigado pelo seu interesse em trabalhar na JustForYou! Abaixo vo
 
 ## ❓ Detalhamento do desafio
 
-A ideia é criar um aplicativo web que utilize a API do GitHub e tenha as seguintes funcionalidades:
-* Buscar/Listar todos os repositórios de um usuário do github
+Criar um aplicativo web que utilize a API do GitHub e que possibilite aos usuarios ter as seguintes funcionalidades:
+* Buscar/Listar todos os repositórios publicos de um usuário do github
 * Dado um repositório, listar todas as branches
-* Dado uma branch, listar todos os commits daquela branch 
+* Dado uma branch, listar todos os commits daquela branch
 
-Documentação da API:
-Exemplo:
-API: https://api.github.com/users/{users}/repos
- (ex: https://api.github.com/users/rftemer/repos);
+Entrada da aplicação:
+* username do github (tudo começa baseado em um usuario)
+
+Layout:
+* Será enviado assets basicos da marca para utilização
+
+## ❓ API
 
 Documentação da API: https://docs.github.com/pt/rest/reference
+Exemplo:
+API: https://api.github.com/users/{username}/repos
+ (ex: https://api.github.com/users/rftemer/repos);
 
 
 ## 📝 Pontos Importantes
