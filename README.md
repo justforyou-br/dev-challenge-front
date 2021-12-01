@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <img src="https://reactjs.org/logo-og.png?style=flat&logo=python&logoColor=white&color=success" alt="Python v3.8" />
+  <img src="https://reactjs.org/logo-og.png?style=flat&logo=python&logoColor=white&color=success" alt="REACT" />
 </div>
 
 ## 🔰 Desafio do GitHub Viewer
