@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-v3.8-informational?style=flat&logo=python&logoColor=white&color=success" alt="Python v3.8" />
+  <img src="https://reactjs.org/logo-og.png?style=flat&logo=python&logoColor=white&color=success" alt="Python v3.8" />
 </div>
 
 ## 🔰 Desafio do GitHub Viewer
