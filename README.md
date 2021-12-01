@@ -25,7 +25,6 @@ Primeiramente, obrigado pelo seu interesse em trabalhar na JustForYou! Abaixo vo
 ## 💡 Avisos antes de começar
 
 * Crie um repositório na sua conta do GitHub sem citar nada relacionado a JustForYou;
-* Baixe este projeto e utilize como base deste novo repositório criado por você;
 * Faça seus commits no seu repositório;
 * Compartilhar com a justfor-br (username do Github do avaliador), assim você poderá dar permissão de leitura no código;
 * Fique tranquilo, respire, assim como você, também já passamos por essa etapa. Boa sorte! :)
