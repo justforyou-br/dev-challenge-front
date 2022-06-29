@@ -26,21 +26,21 @@ Primeiramente, obrigado pelo seu interesse em trabalhar na JustForYou! Abaixo vo
 
 * Crie um repositório na sua conta do GitHub sem citar nada relacionado a JustForYou;
 * Faça seus commits no seu repositório;
-* Compartilhar com a justfor-br (username do Github do avaliador), assim você poderá dar permissão de leitura no código;
+* Compartilhar com a justfor-br (username do GitHub do avaliador), assim você poderá dar permissão de leitura no código;
 * Fique tranquilo, respire, assim como você, também já passamos por essa etapa. Boa sorte! :)
 
 ## ❓ Detalhamento do desafio
 
-Criar um aplicativo web que utilize a API do GitHub e que possibilite aos usuarios ter as seguintes funcionalidades:
+Criar um aplicativo web que utilize a API do GitHub e que tenha as seguintes funcionalidades:
 * Buscar/Listar todos os repositórios publicos de um usuário do github
 * Dado um repositório, listar todas as branches
 * Dado uma branch, listar todos os commits daquela branch
 
 Entrada da aplicação:
-* username do github (tudo começa baseado em um usuario)
+* Username do GitHub (tudo começa baseado em um usuário)
 
 Layout:
-* Assets basicos: https://bit.ly/jfy-miv
+* Assets básicos: https://bit.ly/jfy-miv
 
 ## ❓ API
 
@@ -56,11 +56,10 @@ API: https://api.github.com/users/{username}/repos
 * Componentização 
 * Estrutação de código
 * Tratamento de erros
-* Adaptabilidade de devices
+* Adaptabilidade de devices (Responsividade)
 * Fluxo da aplicação
 
 ## 📝 Entrega
 
 * Via GitHub, com acesso a conta justfor-br
-* Deve contem um arquivo no repositorio de como rodar
-
+* Deve conter um arquivo no repositório explicando como rodar o app
