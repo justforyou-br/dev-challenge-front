@@ -24,10 +24,10 @@ Primeiramente, obrigado pelo seu interesse em trabalhar na JustForYou! Abaixo vo
 
 ## 💡 Avisos antes de começar
 
-* Crie um repositório na sua conta do GitHub sem citar nada relacionado a JustForYou;
+* Crie um repositório **público** na sua conta do GitHub sem citar nada relacionado a JustForYou;
 * Faça seus commits no seu repositório;
-* Compartilhar com a justfor-br (username do GitHub do avaliador), assim você poderá dar permissão de leitura no código;
-* Fique tranquilo, respire, assim como você, também já passamos por essa etapa. Boa sorte! :)
+* Após o término, envie o link de seu repositório para a Tech Recruiter que está conduzindo o seu processo seletivo;
+* Fique tranquilo(a), respire, assim como você, também já passamos por essa etapa. Boa sorte! :)
 
 ## ❓ Detalhamento do desafio
 
